@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>duxiutianlang-01-application</module>
+        <module>distributedtransaction</module>
     </modules>
     <packaging>pom</packaging>
 
